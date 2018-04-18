@@ -1,5 +1,6 @@
 frogs are green
 frogs are red
 frogs are yellow 
+frogs are blue 
 
 the end
