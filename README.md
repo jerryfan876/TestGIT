@@ -1,2 +1,3 @@
 # TestGIT
-this is created for testing git 
+
+Created to practice Git functions on Github Website and Git Bash 
